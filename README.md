@@ -17,5 +17,3 @@ Internal Red Team exercises
 Payload delivery simulations
 
 Penetration testing automation
-
-⚠️ For educational and authorized testing environments only.
